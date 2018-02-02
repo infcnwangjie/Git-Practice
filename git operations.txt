@@ -120,3 +120,8 @@ git commit --m "msg"
 11.提交到远程库
 
 git push origin dev:dev
+
+12.覆盖更新
+git fetch --all  
+git reset --hard origin/master 
+git pull
