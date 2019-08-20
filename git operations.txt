@@ -125,3 +125,10 @@ git push origin dev:dev
 git fetch --all  
 git reset --hard origin/master 
 git pull
+
+
+13.»ØÍË´úÂë
+git log 
+git reset --hard 4f84a0dcf6f96b97db2198899bbae00db42a21c3
+git push  origin HEAD --force
+
